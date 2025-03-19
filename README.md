@@ -1,3 +1,4 @@
+![Image of Álvaro](alvaro.svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Winky+Sans&weight=300&size=50&pause=1000&color=F7B436&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi!+My+name+is+%C3%81lvaro)](https://git.io/typing-svg)
 
 # 💫 About Me:
