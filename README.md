@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Winky+Sans&weight=300&size=50&pause=1000&color=F7B436&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi!+My+name+is+%C3%81lvaro)](https://git.io/typing-svg)
 
 # 💫 About Me:
-💬 Bilingual ES-EN dev & copywriter<br>📍 Spain-based<br>🌱 Learning NodeJS, Tailwind, Astro + Dutch, French, Japanese, Arabic<br>🚧 Currently working on a B&B website<br>🔭 I wanna learn how to participate in open source projects
+💬 Bilingual ES-EN web dev shipping production sites <br>📍 Spain-based<br>🌱 Learning Python, Cybersecurity + Dutch, French, Japanese, Arabic<br>🚧 Currently working on a B&B website<br>🔭 I wanna learn how to participate in open source projects
 
 
 ## 🌐 Links:
