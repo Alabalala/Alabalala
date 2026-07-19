@@ -4,6 +4,8 @@
 # 💫 About Me:
 💬 Bilingual ES-EN web dev shipping production sites <br>📍 Spain-based<br>🌱 Learning Python, Cybersecurity + Dutch, French, Japanese, Arabic<br>🚧 Currently working on a B&B website<br>🔭 I wanna learn how to participate in open source projects
 
+⭐ For up-to-date projects, case studies, and CV: alvaroalarcon.com
+
 
 ## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaroalarconbermejo/) [![Web portfolio](https://img.shields.io/badge/Web_portfolio-2ea44f)](https://alvaroalarcon.com)
